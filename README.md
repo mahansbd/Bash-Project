@@ -1,4 +1,4 @@
-Bash-Project
+# Bash-Project
 This script lets you choose a video game console, and it displays all the home consoles relases by the maunfacturer.
 
 Instructions.
